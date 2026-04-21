@@ -168,3 +168,9 @@ group by product_category;
 
 * SQL (MySQL)
 * Excel (for validation and exploration)
+
+  
+## 📄 Project Report
+For detailed analysis and business insights, check the full report here:
+
+[View Report](./REPORT.md)
